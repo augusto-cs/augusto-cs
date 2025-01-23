@@ -1,4 +1,4 @@
-# Olá, eu sou [Augusto]! 👋
+# Olá, eu sou Augusto! 👋
 
 👨‍💻 Desenvolvedor em aprendizado apaixonado por tecnologia!  
 🌱 Atualmente estou estudando **Python, HTML e GitHub**.  
