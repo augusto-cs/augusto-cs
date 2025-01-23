@@ -7,4 +7,7 @@
 GitHub: [github.com/augusto-cs](https://github.com/augusto-cs)
 Instagram: [@marcosaugusto_cs](https://instagram.com/marcosaugusto_cs)
 <br>
-<img src="https://github.com/augusto-cs/Ola-Mundo/blob/main/site-exemplo/Design%20sem%20nome%20(3).png" alt="Meu avatar" width="450">
+<div style="width: 600px; height: 200px; overflow: hidden;">
+  <img src="https://github.com/augusto-cs/Ola-Mundo/blob/main/site-exemplo/Design%20sem%20nome%20(3).png" alt="Assinatura" style="width: 100%; height: 100%; object-fit: cover;">
+</div>
+
