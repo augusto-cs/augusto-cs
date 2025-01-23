@@ -9,4 +9,5 @@ GitHub: [github.com/augusto-cs](https://github.com/augusto-cs)
 Instagram: [@marcosaugusto_cs](https://instagram.com/marcosaugusto_cs)
 ![Meu avatar](https://github.com/augusto-cs/Ola-Mundo/blob/main/site-exemplo/i%202.jpg)
 
+<img src="https://github.com/augusto-cs/Ola-Mundo/blob/main/site-exemplo/i%202.jpg" alt="Meu avatar" width="150">
 
