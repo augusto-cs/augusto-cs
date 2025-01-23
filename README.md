@@ -8,3 +8,4 @@
 GitHub: [github.com/augusto-cs](https://github.com/augusto-cs)
 - Instagram: [@marcosaugusto_cs](https://instagram.com/marcosaugusto_cs)
 
+![GitHub followers]([https://img.shields.io/github/followers/seu-usuario?style=social](https://github.com/account))
