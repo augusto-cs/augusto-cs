@@ -5,6 +5,6 @@
 💬 Me pergunte sobre **TI, programação e estudos na área**!  
 
 ## 📫 Entre em contato comigo:
-GitHub: [github.com/augusto-cs]
+GitHub: [github.com/augusto-cs](https://github.com/augusto-cs)
 - Instagram: [@marcosaugusto_cs]
 
