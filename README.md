@@ -1,9 +1,9 @@
-# Olá, eu sou Augusto! 👋
+# Hi, i am Augusto! 👋
 
-👨‍💻 Desenvolvedor em aprendizado apaixonado por tecnologia!  
-🌱 Atualmente estou estudando **Python, HTML e GitHub**.  
-💬 Me pergunte sobre **TI, programação e estudos na área**!  
-## 📫 Entre em contato comigo:
+👨‍💻 Learning developer passionate about technology!  
+🌱 I'm currently studying **Python, HTML and GitHub**.  
+💬 Ask me about **IT, programming and studies in the area**!  
+## 📫 Contact me:
 GitHub: [github.com/augusto-cs](https://github.com/augusto-cs)
 <br>
 Instagram: [@marcosaugusto_cs](https://instagram.com/marcosaugusto_cs)
