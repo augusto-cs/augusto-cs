@@ -7,3 +7,4 @@
 ## 📫 Entre em contato comigo:
 - GitHub: [github.com/seu-usuario]([https://github.com/seu-usuario](https://github.com/augusto-cs))
 - Instagram: [@seu-insta]([https://instagram.com/seu-insta](https://www.instagram.com/marcosaugusto_cs/))
+![GitHub followers](https://img.shields.io/github/followers/seu-usuario?style=social)
