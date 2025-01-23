@@ -8,5 +8,5 @@
 GitHub: [github.com/augusto-cs](https://github.com/augusto-cs)
 - Instagram: [@marcosaugusto_cs](https://instagram.com/marcosaugusto_cs)
 
-![Uma imagem legal]([https://via.placeholder.com/200](https://github.com/account))
+
 
