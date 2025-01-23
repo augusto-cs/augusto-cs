@@ -6,5 +6,5 @@
 
 ## 📫 Entre em contato comigo:
 GitHub: [github.com/augusto-cs](https://github.com/augusto-cs)
-- Instagram: [@marcosaugusto_cs]
+- Instagram: [@marcosaugusto_cs](https://instagram.com/marcosaugusto_cs)
 
