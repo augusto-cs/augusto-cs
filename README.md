@@ -6,6 +6,7 @@
 <img src="https://github.com/augusto-cs/Ola-Mundo/blob/main/site-exemplo/i%202.jpg" alt="Meu avatar" width="150">
 ## 📫 Entre em contato comigo:
 GitHub: [github.com/augusto-cs](https://github.com/augusto-cs)
+<hr>
 Instagram: [@marcosaugusto_cs](https://instagram.com/marcosaugusto_cs)
 
 
