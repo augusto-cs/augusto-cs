@@ -22,6 +22,6 @@ Instagram: [@marcosaugusto_cs](https://instagram.com/marcosaugusto_cs)
 
 
 
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=dark)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=augusto-cs&layout=compact&theme=dark)
 
 
