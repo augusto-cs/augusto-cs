@@ -1,3 +1,8 @@
+![Gráfico de atividades](https://github-readme-activity-graph.vercel.app/graph?username=augusto-cs&theme=github-dark)
+
+
+
+
 # Hi, i am Augusto! 👋
 
 👨‍💻 Learning developer passionate about technology!  
