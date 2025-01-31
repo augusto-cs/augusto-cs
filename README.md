@@ -1,3 +1,4 @@
+# Hi, i am Augusto! 👋
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Daynlight/Daynlight/blob/output/github-contribution-grid-snake-dark.svg" />
@@ -5,7 +6,7 @@
     <img alt="github-snake" src="github-snake.svg" />
   </picture></br>
 </div>
-# Hi, i am Augusto! 👋
+
 
 👨‍💻 Learning developer passionate about technology!  
 🌱 I'm currently studying **Python, HTML and GitHub**.  
