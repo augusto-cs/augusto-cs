@@ -13,3 +13,7 @@ Instagram: [@marcosaugusto_cs](https://instagram.com/marcosaugusto_cs)
      style="width: 25%; height: auto;">
 
 
+
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=augusto-cs&show_icons=true&theme=dark)
+
