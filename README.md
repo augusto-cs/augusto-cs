@@ -21,13 +21,14 @@ Instagram: [@marcosaugusto_cs](https://instagram.com/marcosaugusto_cs)
      style="width: 25%; height: auto;">
 
 
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=augusto-cs&layout=compact&theme=dark)
-
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=augusto-cs&show_icons=true&theme=dark)
-
-
-
-
+<div align=center> 
+  <h2> Stats</h2>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=augusto-cs&theme=algolia">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=augusto-cs&theme=algolia">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=augusto-cs&theme=algolia">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=augusto-cs&theme=algolia">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=augusto-cs&theme=algolia">
+</div>
 
 
 
