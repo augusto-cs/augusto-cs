@@ -13,7 +13,7 @@ Instagram: [@marcosaugusto_cs](https://instagram.com/marcosaugusto_cs)
      style="width: 25%; height: auto;">
 
 
-
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=augusto-cs&layout=compact&theme=dark)
 
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=augusto-cs&show_icons=true&theme=dark)
 
@@ -22,6 +22,6 @@ Instagram: [@marcosaugusto_cs](https://instagram.com/marcosaugusto_cs)
 
 
 
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=augusto-cs&layout=compact&theme=dark)
+
 
 
